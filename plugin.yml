@@ -1,0 +1,4 @@
+name: TestPlugin
+version: 1.0
+main: TestPlugin\TestPlugin
+author: r3pt1s
